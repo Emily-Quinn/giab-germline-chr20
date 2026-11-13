@@ -1,0 +1,11 @@
+*.fastq.gz
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.vcf.gz
+*.tbi
+*.fa
+*.fna
+*.fna.gz
+*.fai
