@@ -1,0 +1,12 @@
+name: giab-chr20
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - bwa=0.7.19
+  - samtools=1.25
+  - gatk4=4.6.2.0
+  - fastp=1.4.0
+  - fastqc=0.13.0
+  - multiqc=1.35
+  - mosdepth=0.3.3
